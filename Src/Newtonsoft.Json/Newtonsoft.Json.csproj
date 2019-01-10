@@ -22,7 +22,7 @@
     <RepositoryUrl>https://github.com/JamesNK/Newtonsoft.Json</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <RootNamespace>Newtonsoft.Json</RootNamespace>
-    <AssemblyName>Newtonsoft.Json</AssemblyName>
+    <AssemblyName>Newtonsoft.Json10x</AssemblyName>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
     <MinClientVersion>2.12</MinClientVersion>
