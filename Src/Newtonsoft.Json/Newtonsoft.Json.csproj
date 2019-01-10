@@ -24,7 +24,7 @@
     <RepositoryUrl>https://github.com/JamesNK/Newtonsoft.Json</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <RootNamespace>Newtonsoft.Json</RootNamespace>
-    <AssemblyName>Newtonsoft.Json</AssemblyName>
+    <AssemblyName>Newtonsoft.Json11x</AssemblyName>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <MinClientVersion>2.12</MinClientVersion>
   </PropertyGroup>
